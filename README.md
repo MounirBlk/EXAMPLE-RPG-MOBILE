@@ -1,4 +1,4 @@
-# example
+# MOBILE RPG
 
 A new Flutter application.
 
